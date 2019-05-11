@@ -1,0 +1,57 @@
+.footer { 
+	height: 26px;
+	&__logo {
+		
+	}
+	&__img {
+	padding-left: 46.5%;	
+	margin-top: 65px;
+	}
+	&__text {
+		margin-top: 15px;
+		    text-align: center;
+    font-size: 14px;
+    color: #81868e;
+  font-family: "Open Sans";
+  line-height: 1.75;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  margin-bottom: 35px;
+	}
+	&__link {
+		margin-bottom: 60px;
+	margin-left: 43.5%;
+
+
+	}
+ }
+ .facebook {
+ 	margin-left: 20px;
+ 	color: #3b5998;
+ 	font-size: 20px;
+ border-radius: 50%;
+ }
+ .twitter {
+ 	margin-left: 20px;
+ 	color: #26a6d1;
+ 	font-size: 20px;
+ 	
+ }
+ .linkedin {
+ 	margin-left: 20px;
+ 	color: #0e76a8;
+ 	font-size: 20px;
+ 	border-radius: 50%;
+ }
+ .instagram {
+ 	padding-left: 20px;
+ 	color: #3b5998;
+ 	font-size: 20px;
+ 	border-radius: 50%;
+ }
+ .vimeo {
+ 	padding-left: 20px;
+ 	color: #86c9ef;
+ 	font-size: 20px;
+ 	border-radius: 50%;
+ }
